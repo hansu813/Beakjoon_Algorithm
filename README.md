@@ -9,5 +9,6 @@
 - <a href="./Java_Algorithm/function/src/function/">함수</a>
 - <a href="./Java_Algorithm/string/src/string/">문자열</a>
 - <a href="./Java_Algorithm/basicMath/src/basicMath/">기초 수학1</a>
+- <a href="./Java_Algorithm/sort/src/sort/">정렬</a>
 
 ***
